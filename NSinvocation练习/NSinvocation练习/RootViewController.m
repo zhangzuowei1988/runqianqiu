@@ -26,6 +26,8 @@
     MyModel *model2 = [model copy];
     NSLog(@"*****%@",model2);
     NSLog(@"*****%@",model2);
+    NSLog(@"*****%@",model2);
+    NSLog(@"*****%@",model2);
 }
 
 - (void)didReceiveMemoryWarning {
